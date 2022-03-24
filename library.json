@@ -1,0 +1,31 @@
+{
+	"name": "RAK12039_Dust_Sensor",
+	"version": "1.0.0",
+	"keywords": [
+		"Dust Sensor",
+		"RAKWireless",
+		"WisBlock",
+		"RAK12039"
+	],
+	"description": "RAKwireless library for the RAK12039 Dust Sensor",
+	"frameworks": [
+		"arduino"
+	],
+	"platforms": [
+		"*"
+	],
+	"license": "BSD",
+	"authors": [
+		{
+			"email": "clark.li@rakwireless.com",
+			"url": "https://rakwireless.com",
+			"maintainer": true,
+			"name": "Clark Li"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RAKWireless/RAK#-CHIP-Library"
+	},
+	"homepage": "https://rakwireless.com"
+}
