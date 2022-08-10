@@ -1,13 +1,14 @@
 {
-	"name": "RAK12039_Dust_Sensor",
+	"name": "RAK12039_PM_Sensor",
 	"version": "1.0.0",
 	"keywords": [
-		"Dust Sensor",
+		"Particle Matter",
+		"PMSA003I",
 		"RAKWireless",
 		"WisBlock",
 		"RAK12039"
 	],
-	"description": "RAKwireless library for the RAK12039 Dust Sensor",
+	"description": "RAKwireless library for the RAK12039 Particle Matter Sensor",
 	"frameworks": [
 		"arduino"
 	],
@@ -25,7 +26,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/RAKWireless/RAK#-CHIP-Library"
+		"url": "https://github.com/RAKWireless/RAK12039-PMSA003I"
 	},
 	"homepage": "https://rakwireless.com"
 }

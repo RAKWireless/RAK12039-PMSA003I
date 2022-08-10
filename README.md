@@ -5,7 +5,7 @@
 
 The RAK12039 uses the PMSA003I sensor, which is a digital universal particle concentration sensor. Can be used to collect PM1.0, PM2.5 and PM10.0 concentration in both standard & environmental units. This library implements reading and writing of PMSA003I data through the IIC interface.
 
-[*RAKWireless <RAK#> <function>*](https://store.RAKWireless.com/products/dust_sensor_rak12039)
+[*RAKWireless RAK12039 Particle Matter Sensor*](https://store.RAKWireless.com/products/pm_sensor_rak12039)
 
 # Documentation
 
